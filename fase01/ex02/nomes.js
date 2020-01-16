@@ -1,22 +1,4 @@
-function mostrarNome(){
-   const nome = "Doutor Estranho";
-   console.log(nome);
+function nomes(nome1,nome2){
+    return nome1 + " e " + nome2;
 }
-
-mostrarNome()
-
-function nomeDeVolta(){
-    const name = "O andróide paranóide";
-    console.log(name);
-}    
-    
-nomeDeVolta()
-
-
-function nomes(nome1, nome2){
-    const nome = ("Thor " + "e " + " Loki")
-    console.log(nome);
-}
-
-nomes()
 
