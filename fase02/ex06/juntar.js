@@ -1,4 +1,4 @@
-function dezAVinte(max, min){
-    return Math.floor(Math.random() * (max - min + 1) + min) 
+function juntar(num1, num2){
+      return '92' + '0';
 }
 
