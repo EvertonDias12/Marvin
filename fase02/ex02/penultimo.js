@@ -1,4 +1,4 @@
-function finais(palavra){
-    var palavras = palavra;
-    return palavras.substring(4, 6)
+function juntar(num1, num2){
+    return (num1 + num2.toString())
 }
+
