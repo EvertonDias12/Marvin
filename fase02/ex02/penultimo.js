@@ -1,4 +1,4 @@
-function juntar(num1, num2){
-    return Number (num1 + num2.toString())
+function penultimo(palavra){
+    return palavra.substr(-2,1)
+ 
 }
-
