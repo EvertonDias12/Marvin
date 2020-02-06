@@ -4,10 +4,8 @@ function pares(num1, num2){
     var total = resto1 || resto2
     
     if(total == 0){
-        return "Os numeros sao pares"
+        return "Os números são pares"
     }else{
-        return "Os numeros nao sao pares"
+        return "Os números não são pares"
     }
 }
-
-
