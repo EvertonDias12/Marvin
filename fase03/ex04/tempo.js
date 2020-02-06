@@ -8,7 +8,7 @@ function tempo(data1, data2, unidade){
         return Math.round(periodo)
         break;
         
-    case "mes":
+    case "mês":
         var perido = Math.abs(dataIni.getTime() - dataFim.getTime())/1000/60/60/24/30
         return Math.round(perido)
         break;
@@ -21,4 +21,5 @@ function tempo(data1, data2, unidade){
     
     }
 }
+
 
