@@ -1,16 +1,11 @@
-function ateZero(numero){
+function entreNumeros(min, max){
     var i = 0;
-        while(i <= numero){
-        console.log(i)
-        i++
-        }
-        
-        if(numero <= 0){
-            while(i >= numero){
-            console.log(numero)
-            numero++
-            }
-        }
-        
+    
+    while(min <= max){
+        console.log(min, max)
+        min++
     }
+}
+
+
 
