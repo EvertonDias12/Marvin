@@ -1,7 +1,6 @@
 function tamanho(array){
-    var frutas = ['Maçã', 'Banana', "Laranja"];
+    var frutas = array
 
 console.log(frutas.length);
     
 }
-
